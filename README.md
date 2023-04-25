@@ -1,4 +1,4 @@
-### Hi there 👋
+### Soy un desarrollador web autodidacta apasionado por la programación, con habilidades en Java, SQL, JavaScript, React, Express, PostgreSQL y Redux. He trabajado en proyectos personales desafiantes, demostrando mi capacidad para resolver problemas complejos y crear soluciones innovadoras en el mundo digital. Soy ambicioso, resiliente y valoro la colaboración y la comunicación efectiva. Busco unirme a un equipo dinámico y creativo para contribuir al éxito de mi equipo y empresa.
 
 <!--
 **Jcooob/Jcooob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
