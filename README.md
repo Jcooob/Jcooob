@@ -98,7 +98,7 @@
   </p>
   <div style="display: flex; gap: 5px; justify-content: center; margin-top: 25px;">
     <img alt="Femax - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/FemaxSS_lpdooa.png" width="320">
-    <img alt="Femax - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683590163/Femax2_gk87v6.png" width="320">
+    <img alt="Femax - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683590317/Femax2_jxuive.png" width="320">
   </div>
   <h4>Source Code <a href="https://github.com/Jcooob/Femax">Femax</a></h4>
   <p>
