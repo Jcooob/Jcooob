@@ -68,13 +68,13 @@
       <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png" width="320">
       <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588108/DoggoApi_-_Form_ksz0pk.png" width="320">
     </div>
-    <h3> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h3>
+    <h4> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
     <p>
       Tecnologies used: React, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize, JavaScript
     </p>
   </li>
   
-    <li>
+  <li>
     <h3> ChicCloset </h3>
     <p>
       ChicCloset is an e-commerce platform focused on the sale of elegant clothing. It features filters and sorting options to facilitate searches, along with a simple and intuitive interface designed with an innovative approach to enhance the         user experience. It offers various interfaces to make navigation and management of user data and personal information seamless within our application. The front-end development utilized React, Redux, CSS, and Tailwind, while the back-end         was built using Express and Node.js. MongoDB, Mongoose, and Mongo Atlas were employed for the database.
@@ -90,6 +90,7 @@
       Tecnologies used: React, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize, JavaScript
     </p>
   </li>
+  
 </ul>
 <!--
 **Jcooob/Jcooob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
