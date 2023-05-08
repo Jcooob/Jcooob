@@ -67,7 +67,7 @@
       <img alt="DoggoApi - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Home_sqkwcd.png">
       <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png">
     </div>
-  </li
+  </li>
 </ul>
 <!--
 **Jcooob/Jcooob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
