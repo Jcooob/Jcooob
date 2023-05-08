@@ -77,7 +77,7 @@
   <li>
     <h3> ChicCloset </h3>
     <p>
-      ChicCloset is an e-commerce platform focused on the sale of elegant clothing. It features filters and sorting options to facilitate searches, along with a simple and intuitive interface designed with an innovative approach to enhance the         user experience. It offers various interfaces to make navigation and management of user data and personal information seamless within our application. The front-end development utilized React, Redux, CSS, and Tailwind, while the back-end         was built using Express and Node.js. MongoDB, Mongoose, and Mongo Atlas were employed for the database.
+      ChicCloset is an e-commerce platform focused on the sale of elegant clothing. It features filters and sorting options to facilitate searches, along with a simple and intuitive interface designed with an innovative approach to enhance the         user experience. It offers various interfaces to make navigation and management of user data and personal information seamless within our application.
     </p>
     <div style="display: flex; gap: 5px; justify-content: center; margin-top: 25px;">
       <img alt="ChicCloset - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/LandingChicCloset_kstmap.png" width="320">
@@ -85,9 +85,26 @@
       <img alt="ChicCloset - User" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588292/ChicCloset_-_user_slptzu.png" width="320">
       <img alt="ChicCloset - Cart" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588402/ChicCloset_-_Cart_padt38.png" width="320">
     </div>
-    <h4> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
+    <h4> Deploy <a href="https://chiccloset-service.web.app">ChicCloset</a> </h4>
     <p>
-      Tecnologies used: React, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize, JavaScript
+      Tecnologies used: React, Redux, CSS, Tailwind, NodeJS, Express, MongoDB, Mongoose, JavaScript
+    </p>
+  </li>
+  
+    <li>
+    <h3> Femax </h3>
+    <p>
+      Femax is a project focused on creating a desktop application for real estate management, which allows the administrator(s) to view, enter, modify, and delete information from the database through a simple and intuitive interface.
+    </p>
+    <div style="display: flex; gap: 5px; justify-content: center; margin-top: 25px;">
+      <img alt="ChicCloset - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/LandingChicCloset_kstmap.png" width="320">
+      <img alt="ChicCloset - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/ChicCloset_Home_oh3whg.png" width="320">
+      <img alt="ChicCloset - User" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588292/ChicCloset_-_user_slptzu.png" width="320">
+      <img alt="ChicCloset - Cart" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588402/ChicCloset_-_Cart_padt38.png" width="320">
+    </div>
+    <h4> SourceCode <a href="https://github.com/Jcooob/Femax">Femax</a> </h4>
+    <p>
+      Tecnologies used: MySQL, JFrame, Java
     </p>
   </li>
   
