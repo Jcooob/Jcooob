@@ -1,13 +1,15 @@
-<h1>¡Hola, soy Jacobo! 👋</h1>
+<h1>¡Hi there, I'm Jacob! 👋</h1>
 
 <p >
   <a href="mailto:tu-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="[Enlace a tu perfil de LinkedIn]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
-<p >Soy un desarrollador web apasionado por [Tecnología o campo de interés]. ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás una muestra de mis proyectos y las tecnologías con las que trabajo.</p>
+<p >
+  I'm a fullStack developer with a strong focus on JavaScript. Welcome to my GitHub profile! Here you will find some of my projects and the tecnologies that I work with.
+</p>
 
-<h2 >Tecnologías que uso</h2>
+<h2 >Tecnologies that I use 💻</h2>
 
 <ul >
   <li>
@@ -48,6 +50,15 @@
   
   <li>
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300F.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  </li>
+</ul>
+
+<h2 >Here are some of my projects 📂</h2>
+
+<ul>
+  <li>
+    DoggoApi
+    <img alt="DoggoApi" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png">
   </li>
 </ul>
 <!--
