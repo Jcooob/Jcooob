@@ -62,10 +62,12 @@
       DoggoApi is an application that allows users to view information about various dog breeds. It includes filters and sorting options to facilitate the search for dogs. 
       Additionally, it allows users to create and delete dogs from the application's database.
     </p>
+    <div style="display: flex; gap: 3px;">
       <img alt="DoggoApi - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png">
-      <img alt="DoggoApi - Home" src = "https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Home_sqkwcd.png">
+      <img alt="DoggoApi - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Home_sqkwcd.png">
       <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png">
-  </li>
+    </div>
+  </li
 </ul>
 <!--
 **Jcooob/Jcooob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
