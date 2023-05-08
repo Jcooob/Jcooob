@@ -67,6 +67,10 @@
       <img alt="DoggoApi - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Home_sqkwcd.png" width="320">
       <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png" width="320">
     </div>
+    <h4> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
+    <p>
+      Tecnologies used: React, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize, JavaScript
+    </p>
   </li>
 </ul>
 <!--
