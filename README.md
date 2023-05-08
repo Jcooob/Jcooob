@@ -66,6 +66,24 @@
       <img alt="DoggoApi - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png" width="320">
       <img alt="DoggoApi - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Home_sqkwcd.png" width="320">
       <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png" width="320">
+      <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588108/DoggoApi_-_Form_ksz0pk.png" width="320">
+    </div>
+    <h3> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h3>
+    <p>
+      Tecnologies used: React, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize, JavaScript
+    </p>
+  </li>
+  
+    <li>
+    <h3> ChicCloset </h3>
+    <p>
+      ChicCloset is an e-commerce platform focused on the sale of elegant clothing. It features filters and sorting options to facilitate searches, along with a simple and intuitive interface designed with an innovative approach to enhance the         user experience. It offers various interfaces to make navigation and management of user data and personal information seamless within our application. The front-end development utilized React, Redux, CSS, and Tailwind, while the back-end         was built using Express and Node.js. MongoDB, Mongoose, and Mongo Atlas were employed for the database.
+    </p>
+    <div style="display: flex; gap: 5px; justify-content: center; margin-top: 25px;">
+      <img alt="ChicCloset - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/LandingChicCloset_kstmap.png" width="320">
+      <img alt="ChicCloset - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/ChicCloset_Home_oh3whg.png" width="320">
+      <img alt="ChicCloset - User" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588292/ChicCloset_-_user_slptzu.png" width="320">
+      <img alt="ChicCloset - Cart" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588402/ChicCloset_-_Cart_padt38.png" width="320">
     </div>
     <h4> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
     <p>
