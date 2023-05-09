@@ -67,8 +67,8 @@ Welcome to my GitHub profile! Here you will find some information about me, some
       Additionally, it allows users to create and delete dogs from the application's database.
     </p>
     <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
-      <img alt="DoggoApi - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png" width="50%">
-      <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png" width="50%">
+      <img alt="DoggoApi - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png" width="100%">
+      <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png" width="100%">
     </div>
     <h4> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
     <p>
