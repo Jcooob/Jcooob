@@ -79,9 +79,9 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   </li>
   
   <li>
-  <h3>Femax</h3>
+  <h3>ChicCloset</h3>
   <p>
-    Femax is a project focused on creating a desktop application for real estate management, which allows the administrator(s) to view, enter, modify, and delete information from the database through a simple and intuitive interface.
+    ChicCloset is an e-commerce platform focused on the sale of elegant clothing. It features filters and sorting options to facilitate searches, along with a simple and intuitive interface designed with an innovative approach to enhance the         user experience. It offers various interfaces to make navigation and management of user data and personal information seamless within our application.
   </p>
   <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
     <img alt="Femax - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/FemaxSS_lpdooa.png" width="320">
