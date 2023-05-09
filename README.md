@@ -68,9 +68,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     </p>
     <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
       <img alt="DoggoApi - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png" width="320">
-      <img alt="DoggoApi - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Home_sqkwcd.png" width="320">
       <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png" width="320">
-      <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588108/DoggoApi_-_Form_ksz0pk.png" width="320">
     </div>
     <h4> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
     <p>
