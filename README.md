@@ -1,12 +1,10 @@
 <h1>¡Hi there, I'm Jacob! 👋</h1>
 
-<p >
-  <a href="mailto:tu-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="[Enlace a tu perfil de LinkedIn]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-</p>
+<h3> I use Rejcob as nickname across all media 🎮</h3>
 
+<h2> Who am I? 🤔</h2>
 <p >
-  I'm a fullStack developer with a strong focus on JavaScript. Welcome to my GitHub profile! Here you will find some of my projects and the tecnologies that I work with.
+  I'm a fullStack developer with a strong focus on JavaScript. Welcome to my GitHub profile! Here you will find some information about me, some of my projects and the tecnologies that I work with.
 </p>
 
 <h2 >Tecnologies that I use 💻</h2>
