@@ -66,6 +66,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
       DoggoApi is an application that allows users to view information about various dog breeds. It includes filters and sorting options to facilitate the search for dogs. 
       Additionally, it allows users to create and delete dogs from the application's database.
     </p>
+    <br />
     <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
       <img alt="DoggoApi - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png" width="100%">
     </div>
@@ -82,6 +83,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   <p>
     ChicCloset is an e-commerce platform focused on the sale of elegant clothing. It features filters and sorting options to facilitate searches, along with a simple and intuitive interface designed with an innovative approach to enhance the         user experience. It offers various interfaces to make navigation and management of user data and personal information seamless within our application.
   </p>
+  <br />
   <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
     <img alt="ChicCloset - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/LandingChicCloset_kstmap.png" width="100%">
   </div>
@@ -98,6 +100,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   <p>
     Femax is a project focused on creating a desktop application for real estate management, which allows the administrator(s) to view, enter, modify, and delete information from the database through a simple and intuitive interface.
   </p>
+  <br />
   <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
     <img alt="Femax - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/FemaxSS_lpdooa.png" width="100%">
   </div>
