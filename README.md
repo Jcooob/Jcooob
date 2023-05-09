@@ -69,7 +69,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
       <img alt="DoggoApi - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png" width="100%">
     </div>
-    <h4> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
+    <h4> Deploy: <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
     <p>
       Tecnologies used: React, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize, JavaScript
     </p>
@@ -85,7 +85,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
     <img alt="ChicCloset - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/LandingChicCloset_kstmap.png" width="100%">
   </div>
-  <h4> Deploy <a href="https://chiccloset-service.web.app">ChicCloset</a> </h4>
+  <h4> Deploy: <a href="https://chiccloset-service.web.app">ChicCloset</a> </h4>
   <p>
     Tecnologies used: React, Redux, CSS, Tailwind, NodeJS, Express, MongoDB, Mongoose, JavaScript
   </p>
@@ -101,7 +101,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
     <img alt="Femax - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/FemaxSS_lpdooa.png" width="100%">
   </div>
-  <h4>Source Code <a href="https://github.com/Jcooob/Femax">Femax</a></h4>
+  <h4>Source Code: <a href="https://github.com/Jcooob/Femax">Femax</a></h4>
   <p>
     Technologies used: MySQL, JFrame, Java
   </p>
