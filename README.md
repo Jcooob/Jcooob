@@ -68,7 +68,6 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     </p>
     <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
       <img alt="DoggoApi - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png" width="100%">
-      <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png" width="100%">
     </div>
     <h4> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
     <p>
@@ -85,7 +84,6 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   </p>
   <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
     <img alt="ChicCloset - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/LandingChicCloset_kstmap.png" width="100%">
-    <img alt="ChicCloset - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/ChicCloset_Home_oh3whg.png" width="100%">
   </div>
   <h4> Deploy <a href="https://chiccloset-service.web.app">ChicCloset</a> </h4>
   <p>
@@ -102,7 +100,6 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   </p>
   <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
     <img alt="Femax - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/FemaxSS_lpdooa.png" width="100%">
-    <img alt="Femax - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683590317/Femax2_jxuive.png" width="100%">
   </div>
   <h4>Source Code <a href="https://github.com/Jcooob/Femax">Femax</a></h4>
   <p>
