@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
 
 
 
-<h2 >Tecnologies that I use 💻</h2>
+<h2 >Technologies that I use 💻</h2>
 
 <ul >
   <li>
@@ -72,7 +72,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     </div>
     <h4> Deploy: <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
     <p>
-      Tecnologies used: React, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize, JavaScript
+      Technologies used: React, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize, JavaScript
     </p>
   </li>
   
@@ -89,7 +89,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   </div>
   <h4> Deploy: <a href="https://chiccloset-service.web.app">ChicCloset</a> </h4>
   <p>
-    Tecnologies used: React, Redux, CSS, Tailwind, NodeJS, Express, MongoDB, Mongoose, JavaScript
+    Technologies used: React, Redux, CSS, Tailwind, NodeJS, Express, MongoDB, Mongoose, JavaScript
   </p>
 </li>
   
