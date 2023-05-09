@@ -92,9 +92,8 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     Tecnologies used: React, Redux, CSS, Tailwind, NodeJS, Express, MongoDB, Mongoose, JavaScript
   </p>
 </li>
-
   
-
+<hr />
   
 <li>
   <h3>Femax</h3>
