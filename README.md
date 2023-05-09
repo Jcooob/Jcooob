@@ -78,12 +78,11 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     </p>
   </li>
   
-  <li>
+    <li>
     <h3> ChicCloset </h3>
     <p>
       ChicCloset is an e-commerce platform focused on the sale of elegant clothing. It features filters and sorting options to facilitate searches, along with a simple and intuitive interface designed with an innovative approach to enhance the         user experience. It offers various interfaces to make navigation and management of user data and personal information seamless within our application.
     </p>
-    
     <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
         <img alt="ChicCloset - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/LandingChicCloset_kstmap.png" width="320">
         <img alt="ChicCloset - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/ChicCloset_Home_oh3whg.png" width="320">
@@ -95,6 +94,8 @@ Welcome to my GitHub profile! Here you will find some information about me, some
       Tecnologies used: React, Redux, CSS, Tailwind, NodeJS, Express, MongoDB, Mongoose, JavaScript
     </p>
   </li>
+  
+
   
 <li>
   <h3>Femax</h3>
