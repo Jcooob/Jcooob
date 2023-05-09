@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   I am a full stack developer focused on JavaScript. I am passionate about topics related to the universe and its exploration, and I also love everything related to technology. I am a fan of pizza, cats, and video games.
 </p>
 
-
+<br />
 
 <h2 >Technologies that I use 💻</h2>
 
@@ -56,6 +56,8 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300F.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   </li>
 </ul>
+
+<br />
 
 <h2 >Here are some of my projects 📂</h2>
 
