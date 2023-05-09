@@ -89,7 +89,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   </div>
   <h4> Deploy <a href="https://chiccloset-service.web.app">ChicCloset</a> </h4>
   <p>
-    Technologies used: MySQL, JFrame, Java
+    Tecnologies used: React, Redux, CSS, Tailwind, NodeJS, Express, MongoDB, Mongoose, JavaScript
   </p>
 </li>
 
