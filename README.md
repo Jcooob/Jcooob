@@ -78,23 +78,20 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     </p>
   </li>
   
-    <li>
-    <h3> DoggoApi </h3>
-    <p>
-      DoggoApi is an application that allows users to view information about various dog breeds. It includes filters and sorting options to facilitate the search for dogs. 
-      Additionally, it allows users to create and delete dogs from the application's database.
-    </p>
-    <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
-      <img alt="DoggoApi - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Landing_ddulpx.png" width="320">
-      <img alt="DoggoApi - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/DoggoApi_-_Home_sqkwcd.png" width="320">
-      <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586326/DoggoApi_-_DetailDog_ky8kov.png" width="320">
-      <img alt="DoggoApi - Detail" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588108/DoggoApi_-_Form_ksz0pk.png" width="320">
-    </div>
-    <h4> Deploy <a href="https://doggo-api-client.vercel.app">DoggoApi</a> </h4>
-    <p>
-      Tecnologies used: React, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize, JavaScript
-    </p>
-  </li>
+  <li>
+  <h3>Femax</h3>
+  <p>
+    Femax is a project focused on creating a desktop application for real estate management, which allows the administrator(s) to view, enter, modify, and delete information from the database through a simple and intuitive interface.
+  </p>
+  <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
+    <img alt="Femax - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/FemaxSS_lpdooa.png" width="320">
+    <img alt="Femax - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683590317/Femax2_jxuive.png" width="320">
+  </div>
+  <h4>Source Code <a href="https://github.com/Jcooob/Femax">Femax</a></h4>
+  <p>
+    Technologies used: MySQL, JFrame, Java
+  </p>
+</li>
 
   
 
