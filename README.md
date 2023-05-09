@@ -1,11 +1,12 @@
 <h1>¡Hi there, I'm Jacob! 👋</h1>
 
 <h3> I use Rejcob as nickname across social medias 🤠</h3>
+<br />
 
 <h2> Who am I? 🤔</h2>
-<h4 >
+<p >
   I'm a fullStack developer with a strong focus on JavaScript. Welcome to my GitHub profile! Here you will find some information about me, some of my projects and the tecnologies that I work with.
-</h4>
+</p>
 
 <h2 >Tecnologies that I use 💻</h2>
 
