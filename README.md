@@ -76,6 +76,8 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     </p>
   </li>
   
+  <hr />
+  
   <li>
   <h3>ChicCloset</h3>
   <p>
