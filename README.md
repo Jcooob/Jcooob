@@ -111,6 +111,8 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     Technologies used: MySQL, JFrame, Java
   </p>
 </li>
+  
+  <h2> Contact: reeejcooob@gmail.com </h2>
 
   
 </ul>
