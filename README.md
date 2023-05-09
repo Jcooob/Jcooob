@@ -83,12 +83,14 @@ Welcome to my GitHub profile! Here you will find some information about me, some
     <p>
       ChicCloset is an e-commerce platform focused on the sale of elegant clothing. It features filters and sorting options to facilitate searches, along with a simple and intuitive interface designed with an innovative approach to enhance the         user experience. It offers various interfaces to make navigation and management of user data and personal information seamless within our application.
     </p>
-    <div style="display: flex; gap: 5px; justify-content: center; margin-top: 25px;">
-      <img alt="ChicCloset - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/LandingChicCloset_kstmap.png" width="320">
-      <img alt="ChicCloset - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/ChicCloset_Home_oh3whg.png" width="320">
-      <img alt="ChicCloset - User" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588292/ChicCloset_-_user_slptzu.png" width="320">
-      <img alt="ChicCloset - Cart" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588402/ChicCloset_-_Cart_padt38.png" width="320">
-    </div>
+    <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
+      <div>
+        <img alt="ChicCloset - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/LandingChicCloset_kstmap.png" width="320">
+        <img alt="ChicCloset - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/ChicCloset_Home_oh3whg.png" width="320">
+        <img alt="ChicCloset - User" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588292/ChicCloset_-_user_slptzu.png" width="320">
+        <img alt="ChicCloset - Cart" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683588402/ChicCloset_-_Cart_padt38.png" width="320">
+      </div>
+     </div>
     <h4> Deploy <a href="https://chiccloset-service.web.app">ChicCloset</a> </h4>
     <p>
       Tecnologies used: React, Redux, CSS, Tailwind, NodeJS, Express, MongoDB, Mongoose, JavaScript
@@ -100,7 +102,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
   <p>
     Femax is a project focused on creating a desktop application for real estate management, which allows the administrator(s) to view, enter, modify, and delete information from the database through a simple and intuitive interface.
   </p>
-  <div style="display: flex; gap: 5px; justify-content: center; margin-top: 25px;">
+  <div style="display: flex; gap: 50px; justify-content: center; margin-top: 25px;">
     <img alt="Femax - Landing" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683586325/FemaxSS_lpdooa.png" width="320">
     <img alt="Femax - Home" src="https://res.cloudinary.com/diup4rbeu/image/upload/v1683590317/Femax2_jxuive.png" width="320">
   </div>
