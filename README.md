@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
 
 <h2 >Technologies that I use 💻</h2>
 
-<div>
+<div align="center">
   <div>
     
         <div>
