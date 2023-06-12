@@ -15,6 +15,8 @@ Welcome to my GitHub profile! Here you will find some information about me, some
 
 <h2 >Technologies that I use 💻</h2>
 
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
+
 <ul >
   <li>
     <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
