@@ -17,6 +17,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
 
 <div align="center">
   <div>
+    
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
           <p>Java</p>
@@ -30,26 +31,26 @@ Welcome to my GitHub profile! Here you will find some information about me, some
         </div>
 
   
-      <div>
+
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
           <p>JavaScript</p>
         </div>
-      </div>
+
       
-      <div>
+
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
           <p>HTML</p>
         </div>
-      </div>
+
       
-      <div>
+
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
           <p>CSS</p>
         </div>
-      </div>
+
         
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
