@@ -22,12 +22,13 @@ Welcome to my GitHub profile! Here you will find some information about me, some
           <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
           <p>Java</p>
         </div>
-
+  </div>
+  <div>
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
           <p>Python</p>
         </div>
-        
+       </div>  
         <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
           <p>JavaScript</p>
