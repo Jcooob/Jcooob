@@ -18,10 +18,10 @@ Welcome to my GitHub profile! Here you will find some information about me, some
 <div align="center">
   <div>
     
-        <div>
+
           <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
           <p>Java</p>
-        </div>
+
 
   
 
