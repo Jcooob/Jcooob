@@ -16,7 +16,6 @@ Welcome to my GitHub profile! Here you will find some information about me, some
 <h2 >Technologies that I use 💻</h2>
 
 <div align="center">
-  <h3> Tecnologías Utilizadas </h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java" />&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />&nbsp;&nbsp;
