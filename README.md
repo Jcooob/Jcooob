@@ -15,49 +15,15 @@ Welcome to my GitHub profile! Here you will find some information about me, some
 
 <h2 >Technologies that I use 💻</h2>
 
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="display: flex; align-items: center; margin-right: 10px;">
+    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white" />
+  </div>
 
-<ul >
-  <li>
-    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-  </li>
-  
-  <li>
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-%23764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
-  </li>
-  
-  <li>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  </li>
-  
-  <li>
-    <img alt="Express" src="https://img.shields.io/badge/Express-%23000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
-  </li>
-  
-  <li> 
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-  </li>
-  
-  <li>
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-  </li>
-  
-  <li>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  </li>
-  
-  <li>
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
-  </li>
-  
-  <li>
-    <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-%234169E1.svg?&style=for-the-badge&logo=Sequelize&logoColor=white"/>
-  </li>
-  
-  <li>
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300F.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-  </li>
-</ul>
+  <div style="display: flex; align-items: center; margin-right: 10px;">
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-%23764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white" />
+  </div>
+ </div>
 
 <br />
 
