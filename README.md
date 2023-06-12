@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here you will find some information about me, some
 <h2 >Technologies that I use 💻</h2>
 
 <div align="center">
-  <div style="display: flex; flex: row">
+  <div style="display: flex; flex-direction: row">
     <div>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <p>Java</p>
